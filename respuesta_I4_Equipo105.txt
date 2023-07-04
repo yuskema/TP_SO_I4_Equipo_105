@@ -1,0 +1,29 @@
+A- ¿Qué color de fondo tiene su página en el TESTING ?
+Azul
+
+B- ¿Qué color de fondo tiene su página en el DESARROLLO ?
+Amarillo
+
+C- ¿Qué color de fondo tiene su página en el MASTER?
+Amarillo
+
+D- ¿Qué favicon quedó en el MASTER el de ALFA o el de BETA?
+Quedó el ícono de Beta
+
+E- ¿Algún integrante tuvo problemas al hacer el push?
+Después del primer integrante, todos tuvieron problemas
+
+F- ¿Qué problemas surgieron?
+Ya que no estaba la última versión con la modificaciones realizadas, no dejaba sobreescribir
+
+G- ¿Qué soluciones pueden aplicar y cual seria la consecuencia de cada solución
+adoptada?
+La solución sería actuar uno por uno, guardando y trayendo los datos en orden para que las versiones no choquen y tiren error al querer comparar
+
+H- ¿Qué sucede si cada uno utiliza el push -f?
+Al utilizar push -f se hace el cambio a la fuerza borrando cualquier modificación realizada anteriormente
+
+I- ¿Qué debo hacer para que el index.html tengas todos los <p> de los puntos 18,19 y 20
+en DESARROLLO ?
+
+Deberíamos de actuar uno por uno en orden, realizando los cambios correspondientes, en el orden correspondiente, trayendo las versiones a medida que se realizan los cambios para no sobreescribirlos datos o ignorar los mismos
